@@ -11,5 +11,4 @@
 * To run tests:
 ``` gulp test ```
 
-
 #### More documentation after the project completion
